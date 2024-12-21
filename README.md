@@ -1,7 +1,7 @@
 # PictureTalk
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ivoronin/TomatoBar/main/TomatoBar/Assets.xcassets/AppIcon.appiconset/icon_128x128%402x.png" width="128" height="128"/>
+<img src="https://github.com/nowszhao/PictureTalk/blob/main/icons/PictureTalkApp.png" width="128" height="128"/>
 <p>
 
 PictureTalk 是一款创新的英语学习iOS应用，通过丰富多样的图片场景帮助用户轻松掌握英语词汇、短语和表达。无论是家庭、学校、办公室还是旅游场景，图景英语都能为您提供生动的学习体验.
@@ -42,7 +42,14 @@ _一款基于场景的英语单词学习应用。_
    - 学习数据统计
    - 自定义学习设置
 
-[图片: 主要功能截图展示]
+<div style="display: flex; justify-content: space-around;">
+  <img src="icons/screenshot1.jpg" alt="Image 1" width="200" height="200">
+  <img src="icons/screenshot2.jpg" alt="Image 1" width="200" height="200">
+  <img src="icons/screenshot3.jpg" alt="Image 1" width="200" height="200">
+  <img src="icons/screenshot4.jpg" alt="Image 1" width="200" height="200">
+  <img src="icons/screenshot5.jpg" alt="Image 1" width="200" height="200">
+</div>
+
 
 ## 开始使用
 
