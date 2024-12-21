@@ -8,7 +8,6 @@ PictureTalk 是一款创新的英语学习iOS应用，通过丰富多样的图�
 
 _一款基于场景的英语单词学习应用。_
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)](https://www.apple.com/ios)
 
@@ -45,11 +44,11 @@ _一款基于场景的英语单词学习应用。_
 ## 产品截图
 
 <div>
-  <img src="icons/screenshot1.jpg" alt="Image 1" width="100" height="200">
-  <img src="icons/screenshot2.jpg" alt="Image 1" width="100" height="200">
-  <img src="icons/screenshot3.jpg" alt="Image 1" width="100" height="200">
-  <img src="icons/screenshot4.jpg" alt="Image 1" width="100" height="200">
-  <img src="icons/screenshot5.jpg" alt="Image 1" width="100" height="200">
+  <img src="icons/screenshot1.jpg" alt="场景" width="150" height="300">
+  <img src="icons/screenshot2.jpg" alt="词汇" width="150" height="300">
+  <img src="icons/screenshot3.jpg" alt="拍摄" width="150" height="300">
+  <img src="icons/screenshot4.jpg" alt="学习" width="150" height="300">
+  <img src="icons/screenshot5.jpg" alt="设置" width="150" height="300">
 </div>
 
 
