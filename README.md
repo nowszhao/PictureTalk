@@ -1,10 +1,10 @@
 # PictureTalk
 
 <p align="center">
-<img src="icons/PictureTalkApp.png" width="128" height="128"/>
+<img src="icons/PictureTalkApp.png" width="350" height="350"/>
 <p>
 
-PictureTalk 是一款创新的英语学习iOS应用，通过丰富多样的图片场景帮助用户轻松掌握英语词汇、短语和表达。无论是家庭、学校、办公室还是旅游场景，图景英语都能为您提供生动的学习体验.
+PictureTalk(图语) 是一款创新的英语学习iOS应用，通过丰富多样的图片场景帮助用户轻松掌握英语词汇、短语和表达。无论是家庭、学校、办公室还是旅游场景，图景英语都能为您提供生动的学习体验.
 
 _一款基于场景的英语单词学习应用。_
 
